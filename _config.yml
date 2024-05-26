@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/IMG_0970.PNG"
+  avatar           : "IMG_0970.PNG"
   name             : "Yingnan Zhao"
   pronouns         : # he/his"  
   bio              : "A Ph.D. Major in Computer Architecture and AI accelerators"
