@@ -12,17 +12,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  #{% include archive-single.html %}
 {% endfor %}
-
-
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    var links = document.querySelectorAll('.publication a');
-    links.forEach(function(link) {
-      link.addEventListener('click', function(event) {
-        event.preventDefault();
-      });
-    });
-  });
-</script>
