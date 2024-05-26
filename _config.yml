@@ -22,17 +22,17 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Yingnan Zhao"
+  pronouns         : # he/his"  
+  bio              : "A Ph.D. Major in Computer Architecture and AI accelerators"
+  location         : "Washington, D.C."
+  employer         : "The George Washington University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yzhao96@gwu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=vR4jgX8AAAAJ&hl=en&oi=sra"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
