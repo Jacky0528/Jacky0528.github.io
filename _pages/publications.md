@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+Journal:
 
-{% include base_path %}
+  -title: "OPT-GCN: A Unified and Scalable Chiplet-based Accelerator for High-Performance and Energy-Efficient GCN Computation"
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Conference:
+
+  -title :"test"
