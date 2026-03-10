@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yingnan (Jacky) Zhao. I'm a fourth-year Ph.D.student at the Department of ECE, George Washington University in the Lab for High-Performance Computing Architectures & Technologies. I’m fortunate and grateful to be advised by Prof.Ahmed Louri. I also worked with Prof.Wang Ke, who from the University of North Carolina at Charlotte. 
+Yingnan Zhao is a Ph.D. student in Computer Engineering. His research focuses on the design of high-performance and energy-efficient hardware architectures for modern artificial intelligence systems.
+
+His work lies at the intersection of computer architecture, AI accelerators, graph neural networks, and large language models. His research investigates architectural techniques that improve scalability, hardware utilization, and data reuse for emerging machine learning workloads.
+
+His recent research explores accelerator architectures for graph neural network inference, including both static and dynamic graph models. He is also interested in architectural support for large-scale deep learning models and large language model workloads.
+
+His work has appeared in venues including DAC and IEEE TCAD.
 
 [Email](yzhao96@gwu.edu)
