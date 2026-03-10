@@ -15,4 +15,13 @@ His recent research explores accelerator architectures for graph neural network 
 
 His work has appeared in venues including DAC and IEEE TCAD.
 
-[Email](yzhao96@gwu.edu)
+---
+permalink: / 
+title: "Research Interests"
+---
+
+Computer Architecture
+AI Accelerators
+Graph Neural Networks
+Large Language Models
+Machine Learning Systems
