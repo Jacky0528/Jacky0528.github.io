@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "About Me"
-title: "Research Interests"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,13 +15,4 @@ His recent research explores accelerator architectures for graph neural network 
 
 His work has appeared in venues including DAC and IEEE TCAD.
 
----
-permalink: / 
-title: "Research Interests"
----
-
-Computer Architecture
-AI Accelerators
-Graph Neural Networks
-Large Language Models
-Machine Learning Systems
+Research interests: Computer Architecture, High-Performance Computing, Algorithm-Architecture Co-Designs, Domain Specific Architectures for Emerging AI applications, Large Language Models, Graph Neural Networks, and Deep Neural Networks.
