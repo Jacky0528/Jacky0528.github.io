@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About Me"
+title: "Research Interests"
 author_profile: true
 redirect_from: 
   - /about/
