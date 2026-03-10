@@ -15,4 +15,4 @@ His recent research explores accelerator architectures for graph neural network 
 
 His work has appeared in venues including DAC and IEEE TCAD.
 
-Research interests: Computer Architecture, High-Performance Computing, Algorithm-Architecture Co-Designs, Domain Specific Architectures for Emerging AI applications, Large Language Models, Graph Neural Networks, and Deep Neural Networks.
+**Research interests:** Computer Architecture, High-Performance Computing, Algorithm-Architecture Co-Designs, Domain Specific Architectures for Emerging AI applications, Large Language Models, Graph Neural Networks, and Deep Neural Networks.
